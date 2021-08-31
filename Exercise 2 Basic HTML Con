@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Basic HTML Continued</title>
+  </head>
+  <body>
+    <h1>Basic HTML Continued</h1>
+
+    <h2>JacLyn Crain</h2>
+
+    <h3>"Don't ever, ever, ever give up. You're here for a reason. Even if it's just <br> to look at cats on the internet. You'll figure it out." - Jenna Marbles</h3>
+
+    <img src="eyes.JPEG" alt="Eyes Image">
+
+    <p>Save Your Eyes Use Your Goggles</p>
+  <p>  <a href="index.html">This is a link to my index page</a> </p>
+
+  <p>  <a href="Subfolder">This is a link to Federal Art Project</a> </p>
+
+  <p>  <a href="Second Subfolder">This is a link to Clean Teeth</a> </p>
+
+  </body>
+
+</html>
