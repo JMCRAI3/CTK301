@@ -1,0 +1,78 @@
+/*Assignment 3 Stylesheet*/
+
+/*Page Links*/
+
+a:link {
+ color: #FF0000;
+}
+
+a:hover {
+ color: #F9F51A;
+}
+
+a:visited {
+ color: #00FF00;
+}
+
+
+/*IDs*/
+
+#infoid {
+  color: #1AABF9;
+}
+
+#courseoptions {
+  color: #F91A5D;
+}
+
+#courselist {
+  color: #5DF91A;
+}
+
+
+/*Classes*/
+
+.ctdefinition {
+  color: #5DF91A;
+}
+
+.coursedefinition {
+  color: #F91A5D;
+}
+
+.extracoursedefinition {
+  color: #F91A5D;
+}
+
+
+/*Div IDs*/
+
+#MainInfo {
+  color: #F9F4F4;
+  background-color: #605E5E;
+}
+
+#Requirements {
+  color: #F91A1A;
+  background-color: #605E5E;
+}
+
+#courseinfolist {
+  color: #F9F4F4;
+  background-color: #605E5E;
+}
+
+
+/*Span Classes*/
+
+.spanstyle {
+  color: #FFFFFF;
+  background-color: #FC0505;
+}
+
+
+/*Footer*/
+
+footer {
+  color: #FF0000;
+}
