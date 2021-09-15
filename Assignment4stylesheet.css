@@ -1,0 +1,115 @@
+/*Assignment 4 Stylesheet*/
+
+/*Header1 Changes*/
+
+h1 {
+  font-weight: normal;
+}
+
+body {
+  background-image: url(backgroundimage4.jpg);
+}
+/*Text Changes*/
+
+.textcenter {
+  text-align: center;
+}
+
+.textjustify {
+  text-align: justify;
+}
+
+/*Page Links*/
+
+a:link {
+ color: #FF0000;
+}
+
+a:hover {
+ color: #F9F51A;
+}
+
+a:visited {
+ color: #00FF00;
+}
+
+/*Page Images*/
+
+.imgbox {
+border: 10px  solid #050505;
+padding: 5px;
+background-color: #FCFCFC;
+margin: 10px
+}
+
+
+
+/*IDs*/
+
+#infoid {
+  color: #1AABF9;
+}
+
+#courseoptions {
+  color: #F91A5D;
+}
+
+#courselist {
+  color: #5DF91A;
+}
+
+
+/*Classes*/
+
+.ctdefinition {
+  color: #5DF91A;
+}
+
+.coursedefinition {
+  color: #F91A5D;
+}
+
+.extracoursedefinition {
+  color: #F91A5D;
+}
+
+.customtext {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.headers {
+  color: #F4621E;
+  font-style: italic;
+  font-weight: normal;
+}
+/*Div IDs*/
+
+#MainInfo {
+  color: #F9F4F4;
+  background-color: #605E5E;
+}
+
+#Requirements {
+  color: #F91A1A;
+  background-color: #605E5E;
+}
+
+#courseinfolist {
+  color: #F9F4F4;
+  background-color: #605E5E;
+}
+
+
+/*Span Classes*/
+
+.spanstyle {
+  color: #FFFFFF;
+  background-color: #FC0505;
+}
+
+
+/*Footer*/
+
+footer {
+  color: #FF0000;
+}
