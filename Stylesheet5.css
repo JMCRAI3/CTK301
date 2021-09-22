@@ -1,0 +1,83 @@
+/*Assignment 5 Stylesheet*/
+
+/*Body*/
+
+Body {
+  background-image: url(Soul.png);
+background-repeat: no-repeat;
+background-position: top left;
+text-align: justify;
+}
+
+#smallparagraph {
+  margin: 1em auto;
+  padding: 0;
+  width: 800px;
+  border: 1px;
+}
+
+Main {
+  color: #2AD2D4;
+  font-family: Helvetica;
+}
+
+Header {
+  color: #FFFFFF;
+font-family: Helvetica;
+font-size: 13px;
+font-weight: bold;
+}
+
+/* SOUL */
+
+h1 {
+  color: #2AD2D4;
+  font-family: Arial;
+  font-weight:bold;
+  font-size: 60px;
+  margin: 4em auto;
+  padding: 0;
+  width: 1120px;
+  border: 1px;
+}
+
+.O {
+  color: #FB840D;
+}
+
+.mainparagraph {
+  margin: 32em auto;
+  padding: 0;
+  width: 2000px;
+  border: 0px;
+}
+
+.link {
+  margin: 0em auto;
+  padding: 0;
+  width: 50px;
+  border: 0px;
+}
+
+.img {
+  margin: 0em auto;
+  padding: 0;
+  width: 400px;
+  border: 1px;
+}
+/*Link*/
+
+a:link {
+  color: #2AD2D4;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #2AD2D4;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FB840D;
+  text-decoration: underline;
+}
