@@ -1,0 +1,41 @@
+body {
+  background-color: #9E9EF9;
+}
+
+#wrapper {
+  margin: 24px auto;
+  width: 1200px;
+  border: 4px solid white;
+  padding: 24px;
+  background-color: #DDDDFC;
+  display:
+  grid-template-columns: repeat(12, 1fr);
+  grid-column-gap: 24px;
+}
+
+
+nav ul {
+  list-style:none;
+  margin: 0;
+  padding: 0;
+}
+
+.Italic {
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.Textcenter {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+.Center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
